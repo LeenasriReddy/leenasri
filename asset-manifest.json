@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/leenasri/static/css/main.b9c50f3e.css",
+    "main.js": "/leenasri/static/js/main.e51bf63b.js",
+    "static/js/592.ab860d53.chunk.js": "/leenasri/static/js/592.ab860d53.chunk.js",
+    "index.html": "/leenasri/index.html",
+    "main.b9c50f3e.css.map": "/leenasri/static/css/main.b9c50f3e.css.map",
+    "main.e51bf63b.js.map": "/leenasri/static/js/main.e51bf63b.js.map",
+    "592.ab860d53.chunk.js.map": "/leenasri/static/js/592.ab860d53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9c50f3e.css",
+    "static/js/main.e51bf63b.js"
+  ]
+}
